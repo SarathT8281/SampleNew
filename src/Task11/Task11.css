@@ -1,0 +1,17 @@
+.Card{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+button{
+    color: #fff;
+    background-color: black;
+}
+
+#container{
+    display: flex;
+    
+}
+.one1{
+    display: flex;
+}
